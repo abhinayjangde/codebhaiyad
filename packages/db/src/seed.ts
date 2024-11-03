@@ -2,9 +2,9 @@ import prisma from "./index";
 async function main() {
     await prisma.user.create({
         data: {
-            name: 'Default User',
-            email: 'defaultuser@example.com',
-            password: 'securepassword', // Ensure this is hashed in a real application
+            name: 'Abhi',
+            email: 'abhinay@gmail.com',
+            password: 'mypassword', // Ensure this is hashed in a real application
         },
     });
 }
