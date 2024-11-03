@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+import { ThemeProvider } from "@/providers/ThemeProvider";
 
 export const metadata: Metadata = {
   title: "Codebhaiya",
@@ -14,7 +17,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <ThemeProvider 
+         attribute="class"
+         defaultTheme="system"
+         enableSystem
+         disableTransitionOnChange
+         >
+        <Navbar />
         {children}
+        <Footer />
+        </ThemeProvider>
       </body>
     </html>
   );
