@@ -12,12 +12,12 @@ const Footer: React.FC = () => {
           <Link href="/terms" className=" hover:text-blue-600 underline">Terms of Services</Link>
           <Link href="/privacy" className=" hover:text-blue-600 underline">Privacy Policy</Link>
           <Link href="/refund" className=" hover:text-blue-600 underline">Refund Policy</Link>
-          <Link href="/support" className=" hover:text-blue-600 underline">Support Us</Link>
+          {/* <Link href="/support" className=" hover:text-blue-600 underline">Support Us</Link> */}
 
         </div>
         </div>
         <div className="hidden md:flex md:items-center">
-          <p className="">Happy Coding</p>
+          <p className="">Happy Coding :)</p>
         </div>
 
       </div>

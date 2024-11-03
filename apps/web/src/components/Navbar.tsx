@@ -19,7 +19,7 @@ const Navbar = () => {
         <nav className="shadow-md w-full sticky top-0 z-10" >
             <div className="flex justify-between items-center px-2 py-1 md:px-2 md:py-2 backdrop-blur bg-background/50 bg-white dark:bg-dark">
                 <div className="flex items-center">
-                    <Link href={"/"} className="flex title-font font-medium items-center text-gray-900 mb-1 md:mb-0">
+                    <Link href={"/"} className="flex font-medium items-center text-gray-900 mb-1 md:mb-0">
                         <Image
                             alt="logo"
                             src="https://codebhaiya.s3.ap-south-1.amazonaws.com/images/logo.png"
@@ -38,7 +38,7 @@ const Navbar = () => {
                             CODEBHAIYA
                         </span>
                     </Link>
-                    <ul className="text-[16px] hidden md:flex items-center gap-2 mx-2">
+                    <ul className="text-[16px] hidden md:flex items-center gap-3 mx-2">
                         <li><Link href="/" >Home</Link></li>
                         <li><Link href="/blogs" >Blogs</Link></li>
                         <li><Link href="/courses" >Courses</Link></li>
