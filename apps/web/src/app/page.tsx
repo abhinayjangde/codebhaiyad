@@ -4,6 +4,7 @@ import Testimonial from "@/components/Testimonials"
 import WhoAmI from "@/components/WhoAmI"
 
 const Home = () => {
+
   return (
     <>
       <HeroSection/>
