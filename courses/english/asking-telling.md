@@ -1,40 +1,8 @@
-# <p align="center">English Speaking</p>
-
-So, before we start this track, you have to understand the fundamentals of English language. If you are not familiar with the basics, then you can start with [English Basics](/courses/english/english-basics.md).
-
-**✅ Prerequisites**:
-* Motivation to learn English speaking
-* Reason to learn English speaking
-* Hardwork and Dedication (Burning Desire)
-* Basic Grammar & Vocabulary
-* Understanding of Alphabet and Sounds
-
-What are the most important things while learning English speaking?
-
-<details>
-<summary>
-Most Important Things
-</summary>
-1. **Structure**: You have to understand the structure of English language. It is very important to know how to form a sentence.<br>
-2. **Vocabulary**: You have to learn new words everyday. It is very important to have a good vocabulary.<br>
-3. **Practice**: You have to practice everyday. It is very important to speak English everyday.<br>
-4. **Listen**: You have to listen to English everyday. It is very important to listen to English everyday.<br>
-5. **Read**: You have to read English everyday. It is very important to read English everyday.<br>
-</details>
-
-So, let's start with the first chapter of English speaking tracks. You can also called it course. Yes, but it is not a course.
-
-
-> **⚠️ Disclaimer**:
-*This is not for beginners. If you don't know anything you start fron basics [English Basics](/courses/english/english-basics.md)*
-
-
-
 ## Chapters 01 - Asking & Telling
 
 Today, we are going to learn the procedure of learning English and some basic components.
 
-Conversation can be of two types **Asking** and **Tellin**. So, let's start with the first chapter.
+Conversation can be of two types **Asking** and **Telling**. So, let's start with the first chapter.
 
 <details>
 <summary>
@@ -143,7 +111,7 @@ Examples
 </details>
 
 ## Bonus
-* That's great (Ye hui na baat)
+* That's the spirit. (Ye hui na baat)
 
 ## Reading Practice
 
@@ -183,26 +151,7 @@ Happy – खुश
 
 ---
 
-## Chapter 02 - Should(Chahiye)
+Watch this [Video](https://youtube.com/shorts/5lNBML2BJdU?si=tofp1Ree1DAsUdiR)
 
-Jab hame yeh kahna to ki tumhe ye karna chahiye or use yah karna chahiye. tab hum **should** ka use karte hai.
-
-Suggestions & Advice dene ke liye.
-
-<details>
-<summary>
-Examples
-</summary>
-You should speak English. (Tumhe English bolna chahiye)<br>
-You should learn English. (Tumhe English sikhana chahiye)<br>
-You should practice English. (Tuhme English ki practice karni chahiye)<br>
-You should listen to English. (Tumhe English sunni chahiye)<br>
-You should read English. (Tumhe English padhani chahiye)<br>
-You should write English. (Tuhme English likhani chahiye)<br>
-You should watch English videos. (Tumhe English videos dekhani chahiye)<br>
-I should speak English. (Mujhe English bolni chahiye)<br>
-I should learn English. (Mujhe English sikhani chahiye)<br>
-I should practice English. (Mujhe English ki practice karni chahiye)<br>
-You should get up early in the morning. (Tumhe subah jaldi uthana chahiye)<br>
-</details>
-
+---
+Click here to go [Home](/courses/english/readme.md)
