@@ -14,13 +14,5 @@
 - Docker Complete Course
 - Matrix Web Dev
 
-> Pull requests are always welcome :)
+> Pull requests are always welcome😘
 
-
-
----
-
-## English Speaking Course
-
-[Chapter 00 - Introduction](/courses/english/english-speaking.md) <br>
-[Chapter 01 - Asking & Telling](/courses/english/english-speaking.md#chapters-01---asking--telling)
