@@ -80,7 +80,7 @@ My sister should speak English.<br>
 My uncle should speak English.<br>
 My teacher should speak English.<br>
 My friend should speak English.<br>
-My fater should speak English.<br>
+My father should speak English.<br>
 My mother should speak English.<br>
 My older brother should speak English.<br>
 My older sister should speak Enlgish.<br>

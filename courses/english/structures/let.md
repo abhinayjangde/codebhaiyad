@@ -1,5 +1,7 @@
 ## Chapter - 08 - Let (Chhod Do, Jane Do)
 
+Jab bhi hame ye kahna ho ki use yah karne do, mujhe ye karnhe, use aane do, use jaane do, tab hum **Let** ka use karte hain.
+
 Let me think.<br>
 Let me study.<br>
 Let me try.<br>
