@@ -45,6 +45,7 @@ So, let's start with the first chapter of English speaking tracks. You can also 
 15. [Chapter 15 - Must](/courses/english/structures/must.md)
 16. [Chapter 16 - Should/Could/Would + have](/courses/english/structures/should-would-could-have.md)
 17. [Chapter 17 - There + is/are](/courses/english/structures/there-is-are.md)
+18. [Chapter 18 - XYZ + Be 😘](/courses/english/structures/xyz-be.md)
 
 ## Vocabs
 1. [Daily Vocabs](/courses/english/vocabs/01.md)
