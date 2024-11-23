@@ -61,3 +61,4 @@ So, let's start with the first chapter of English speaking tracks. You can also 
 03. [Must Watch Videos](/courses/english/videos/must-watch.md)
 ## QnA
 01. [QnA](/courses/english/QnA.md)
+02. [Know About Person](/courses/english/conversations/basic-conversation-know-person.md)
