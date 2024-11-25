@@ -11,7 +11,6 @@ const Home = () => {
       <RecommendedCourses/>
       <WhoAmI/>
       <Testimonial/>
-    
     </>
   )
 }
