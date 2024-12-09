@@ -55,10 +55,11 @@ So, let's start with the first chapter of English speaking tracks. You can also 
 ## Stories
 01. [The Stork and The Crab](/courses/english/stories/stories.md)
 
-## Videos (Watching Listening)
+## Videos (Watching & Listening)
 01. [Top Youtube Channesl](/courses/english/videos/youtube.md)
 02. [Top Movies](/courses/english/videos/movies.md)
 03. [Must Watch Videos](/courses/english/videos/must-watch.md)
+04. [Fluent in 6 Months](https://youtu.be/Cl-Q67HHZBY?si=XotbGyvQcv2yoTSe)
 ## QnA
 01. [QnA](/courses/english/QnA.md)
 02. [Know About Person](/courses/english/conversations/basic-conversation-know-person.md)
