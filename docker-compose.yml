@@ -1,13 +1,14 @@
-
+name : "codebhaiya"
 services:
-  postgres:
+  db:
     image: postgres:alpine
-    container_name: postgres_db
-    restart: always
+    container_name: codebhaiya_db
     ports:
-      - 5432:5432
+      - "5432:5432"
     environment:
+      POSTGRES_USER: codebhaiya
       POSTGRES_PASSWORD: codebhaiya
+      POSTGRES_DB: codebhaiya
     volumes:
       - postgres_data:/var/lib/postgresql/data
 volumes:
