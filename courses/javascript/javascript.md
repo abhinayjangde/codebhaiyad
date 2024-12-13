@@ -17,7 +17,7 @@ JavaScript is amazing language.
 10 - [Numbers & Math in JS]()<br>
 11 - [Date & Time in JS]()<br>
 12 - [Array in JS]()<br>
-13 - [Objects in JS]()<br>
+13 - [Objects in JS](./objects/readme.md)<br>
 14 - [Conditionals If, else in JS]()<br>
 15 - [Loops in JS]()<br>
 16 - [Functions in JS]()<br>
