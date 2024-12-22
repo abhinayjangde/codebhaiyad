@@ -32,6 +32,11 @@ So, let's start with the first chapter of English speaking tracks. You can also 
 
 Here are some most common English strucutres. You have to understand these structures and practice them.
 
+<details>
+<summary>
+All Structures
+</summary>
+
 01. [Chapter 01 - Asking & Telling](/courses/english/structures/asking-telling.md)
 02. [Chapter 02 - Should](/courses/english/structures/should.md)
 03. [Chapter 03 - Will](/courses/english/structures/will.md)
@@ -54,7 +59,12 @@ Here are some most common English strucutres. You have to understand these struc
 20. [Chapter 20 - Could](/courses/english/structures/could.md)
 21. [Chapter 21 - It Various Structures](/courses/english/structures/it-various-structures.md)
 
+</details>
+
 ## Vocabs
+
+Vocabulary is the most **important** thing in English speaking. You have to learn new words everyday. Here I am providing some daily vocabs which you can learn everyday.
+
 1. [Daily Vocabs](/courses/english/vocabs/01.md)
 
 
@@ -119,7 +129,22 @@ All Supehero Movies (MCU, DC, etc)
 
 13. [The Flash](https://www.imdb.com/title/tt0439572/) - Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.
 
+</details>
 
+<details>
+<summary>
+Books to Improve English
+</summary>
+
+1. [Do Epic Shit]()
+</details>
+
+<details>
+<summary>
+YouTube Channels
+</summary>
+
+Coming Soon.
 </details>
 
 ## Practice
