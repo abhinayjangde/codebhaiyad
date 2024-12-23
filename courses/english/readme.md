@@ -61,6 +61,15 @@ All Structures
 
 </details>
 
+<details>
+<summary>
+Books
+</summary>
+
+01. [Angreji Bolna Seekhein Also How to Face Interviews & Group Disussions](https://www.amazon.in/Angreji-Bolna-Seekhein-Interviews-Disussions/dp/8183481388)
+
+</details>
+
 ## Vocabs
 
 Vocabulary is the most **important** thing in English speaking. You have to learn new words everyday. Here I am providing some daily vocabs which you can learn everyday.
@@ -144,7 +153,25 @@ Books to Improve English
 YouTube Channels
 </summary>
 
-Coming Soon.
+1. [WellTalk Institute](https://www.youtube.com/@welltalkinstitute3465) - Confidence Building
+2. [English Lessons with Kate](https://www.youtube.com/@KateEnglish) - English Lessions
+3. [Veronika's Language Diaries](https://www.youtube.com/@veronika_languagediaries) - Guidance
+4. [TsMadaan](https://www.youtube.com/@tsmadaan) - Grammar and Practice
+5. [Pronunciation's Way](https://www.youtube.com/@pronunciationway8502) - Guidance Videos
+6. [Listening Time](https://www.youtube.com/@listeningtimepodcast) -Simple and Clear Listening practice
+7. [BeerBiceps](https://www.youtube.com/@beerbiceps) - Podcast
+8. [Warikoo](https://www.youtube.com/@warikoo) - Hindi + English, Finance, Entrepreneur
+9. [TEDx Talks](https://www.youtube.com/@TEDx) - Talks
+10. [Lex Fridman](https://www.youtube.com/@lexfridman) - Podcast
+11. [The Buddymoon](https://www.youtube.com/@thebuddymoon) - Vlogs, Travelling the world
+12. [SPEAK OUT](https://www.youtube.com/@SPeakOUTe) - Listening & Speaking
+13. [Caro Kowanz English](https://www.youtube.com/@carokowanzenglish)
+14. [Rachel's English](https://www.youtube.com/@rachelsenglish) - Pronunciation
+15. [linguamarina](https://www.youtube.com/@linguamarina) - English Lessions
+16. [English with Lucy](https://www.youtube.com/@englishwithlucy) - English Lessions
+17. [English Podcast](https://www.youtube.com/@highlevellistening) - Listening Practice
+18. [Learn English TIE](https://www.youtube.com/@LearnEnglishTIE) - English Lessions
+
 </details>
 
 ## Practice
