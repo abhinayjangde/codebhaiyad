@@ -29,7 +29,7 @@ Telling
 5. My hobby is watching movies.<br>
 6. I am 22 years old.<br>
 7. I am a graduate.<br>
-8. My favorite color is blue.<br>
+8. My favorite color is blue and white.<br>
 9. My favorite food is pizza.<br>
 </details>
 
