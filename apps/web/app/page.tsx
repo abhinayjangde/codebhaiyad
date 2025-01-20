@@ -4,8 +4,9 @@ import { Button } from "@repo/ui/button";
 export default function Home() {
   return (
     <div>
-      <h1>Home</h1>
-      <Button appName="Codebhaiya Web" >Click me</Button>
+      <h1 className="text-blue-300">Home</h1>
+      <Button className="" appName="Codebhaiya Web" >Click me</Button>
+
     </div>
   );
 }
