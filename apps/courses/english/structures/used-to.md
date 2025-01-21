@@ -42,4 +42,4 @@ My friend used to try new things<br>
 
 ---
 
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

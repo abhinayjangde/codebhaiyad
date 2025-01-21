@@ -104,4 +104,4 @@ What will you do in the afternoon? (Dopahar ko tum kya karoge?)<br>
 </details>
 
 ---
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

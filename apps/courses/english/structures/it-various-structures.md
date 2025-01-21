@@ -96,4 +96,4 @@ It was Ankoor who wrote this book.<br>
 </details>
 
 
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

@@ -7,7 +7,7 @@
 ## Recommended Courses
 - [Python For Beginners](https://www.youtube.com/playlist?list=PLektAlvzRpxGbkecHfD6UZRecAdGPOGTa)
 - [Git & GitHub](https://www.youtube.com/playlist?list=PLektAlvzRpxFz9By9JhjDD34vjsd5BYGX)
-- [English Speaking](/courses/english/readme.md)
+- [English Speaking](/apps/courses//english/readme.md)
 
 ## Future Courses
 

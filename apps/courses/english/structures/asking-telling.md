@@ -118,4 +118,4 @@ Examples
 Watch this [Video](https://youtube.com/shorts/5lNBML2BJdU?si=tofp1Ree1DAsUdiR)
 
 ---
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

@@ -101,4 +101,4 @@ They should definitely speak English.<br>
 We should start speaking in English.<br>
 They should definitely speak English.<br>
 
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

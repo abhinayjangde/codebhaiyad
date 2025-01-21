@@ -53,4 +53,4 @@ Yes, I know what you mean. (Haan, mujhe pata hai tum kya kehna chahte ho)<br>
 
 ---
 
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

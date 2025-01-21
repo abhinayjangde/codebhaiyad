@@ -52,4 +52,4 @@ Watch this [video](https://youtube.com/shorts/Kj0svfqXuGY?si=biEnDcreKk77ZLK1)
 
 ---
 
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

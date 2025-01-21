@@ -1,6 +1,6 @@
 # <p align="center">English Speaking</p>
 
-So, before we start this track, you have to understand the fundamentals of English language. If you are not familiar with the basics, then you can start with [English Basics](/courses/english/structures/english-basics.md).
+So, before we start this track, you have to understand the fundamentals of English language. If you are not familiar with the basics, then you can start with [English Basics](/apps/courses/english/structures/english-basics.md).
 
 **✅ Prerequisites**:
 * Motivation to learn English speaking
@@ -26,7 +26,7 @@ So, let's start with the first chapter of English speaking tracks. You can also 
 <br>
 
 > **⚠️ Disclaimer**:
-*This is not for absolute beginners. If you don't know anything you start fron basics [English Basics](/courses/english/english-basics.md)*
+*This is not for absolute beginners. If you don't know anything you start fron basics [English Basics](/apps/courses/english/english-basics.md)*
 
 ## Structures
 
@@ -37,27 +37,27 @@ Here are some most common English strucutres. You have to understand these struc
 All Structures
 </summary>
 
-01. [Chapter 01 - Asking & Telling](/courses/english/structures/asking-telling.md)
-02. [Chapter 02 - Should](/courses/english/structures/should.md)
-03. [Chapter 03 - Will](/courses/english/structures/will.md)
-04. [Chapter 04 - Was/Were](/courses/english/structures/was-were.md)
-05. [Chapter 05 - Do/Does](/courses/english/structures/do-does.md)
-06. [Chapter 06 - Did](/courses/english/structures/did.md)
-07. [Chapter 07 - Can](/courses/english/structures/can.md)
-08. [Chapter 08 - Have/Has](/courses/english/structures/has-have.md)
-09. [Chapter 09 - Had](/courses/english/structures/had.md)
-10. [Chapter 10 - Has/Have Been](/courses/english/structures/has-have-been.md)
-11. [Chapter 11 - Used to](/courses/english/structures/used-to.md)
-12. [Chapter 12 - Going to/About to](/courses/english/structures/about-going.md)
-13. [Chapter 13 - Let](/courses/english/structures/let.md)
-14. [Chapter 14 - Can be](/courses/english/structures/can-be.md)
-15. [Chapter 15 - Must](/courses/english/structures/must.md)
-16. [Chapter 16 - Should/Could/Would + have](/courses/english/structures/should-would-could-have.md)
-17. [Chapter 17 - There + is/are](/courses/english/structures/there-is-are.md)
-18. [Chapter 18 - XYZ + Be 😘](/courses/english/structures/xyz-be.md)
-19. [Chapter 19 - Has/Have + V3](/courses/english/structures/has-have-v3.md)
-20. [Chapter 20 - Could](/courses/english/structures/could.md)
-21. [Chapter 21 - It Various Structures](/courses/english/structures/it-various-structures.md)
+01. [Chapter 01 - Asking & Telling](/apps/courses/english/structures/asking-telling.md)
+02. [Chapter 02 - Should](/apps/courses/english/structures/should.md)
+03. [Chapter 03 - Will](/apps/courses/english/structures/will.md)
+04. [Chapter 04 - Was/Were](/apps/courses/english/structures/was-were.md)
+05. [Chapter 05 - Do/Does](/apps/courses/english/structures/do-does.md)
+06. [Chapter 06 - Did](/apps/courses/english/structures/did.md)
+07. [Chapter 07 - Can](/apps/courses/english/structures/can.md)
+08. [Chapter 08 - Have/Has](/apps/courses/english/structures/has-have.md)
+09. [Chapter 09 - Had](/apps/courses/english/structures/had.md)
+10. [Chapter 10 - Has/Have Been](/apps/courses/english/structures/has-have-been.md)
+11. [Chapter 11 - Used to](/apps/courses/english/structures/used-to.md)
+12. [Chapter 12 - Going to/About to](/apps/courses/english/structures/about-going.md)
+13. [Chapter 13 - Let](/apps/courses/english/structures/let.md)
+14. [Chapter 14 - Can be](/apps/courses/english/structures/can-be.md)
+15. [Chapter 15 - Must](/apps/courses/english/structures/must.md)
+16. [Chapter 16 - Should/Could/Would + have](/apps/courses/english/structures/should-would-could-have.md)
+17. [Chapter 17 - There + is/are](/apps/courses/english/structures/there-is-are.md)
+18. [Chapter 18 - XYZ + Be 😘](/apps/courses/english/structures/xyz-be.md)
+19. [Chapter 19 - Has/Have + V3](/apps/courses/english/structures/has-have-v3.md)
+20. [Chapter 20 - Could](/apps/courses/english/structures/could.md)
+21. [Chapter 21 - It Various Structures](/apps/courses/english/structures/it-various-structures.md)
 
 </details>
 
@@ -74,7 +74,7 @@ Books
 
 Vocabulary is the most **important** thing in English speaking. You have to learn new words everyday. Here I am providing some daily vocabs which you can learn everyday.
 
-1. [Daily Vocabs](/courses/english/vocabs/01.md)
+1. [Daily Vocabs](/apps/courses/english/vocabs/01.md)
 
 
 ## Listening & Speaking
@@ -179,5 +179,5 @@ YouTube Channels
 Practice, Practice and Practice is the key to success. You have to practice as much as you can. You can practice with your friends, family members, or with yourself. You can also practice with me. I am always here to help you. You can also join our [Discord Server](https://discord.com/invite/CxPBRSZut7) and practice with other learners.
 
 ## QnA
-01. [QnA](/courses/english/QnA.md)
-02. [Know About Person](/courses/english/conversations/basic-conversation-know-person.md)
+01. [QnA](/apps/courses/english/QnA.md)
+02. [Know About Person](/apps/courses/english/conversations/basic-conversation-know-person.md)

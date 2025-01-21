@@ -1,3 +1,3 @@
 # <p align="center">COURSES</p>
 
-- [**English Speaking Track**](/courses/english/english-speaking.md)
+- [**English Speaking Track**](/apps/courses/english/english-speaking.md)

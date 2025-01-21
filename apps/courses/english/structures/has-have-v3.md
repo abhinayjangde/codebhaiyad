@@ -29,4 +29,4 @@ Have you ever been to Delhi?<br>
 He hasn’t called me yet.<br>
 
 
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)

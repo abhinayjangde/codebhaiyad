@@ -41,4 +41,4 @@ _**(Contributed by Arya)**_
 
 ---
 
-Click here to go [Home](/courses/english/readme.md)
+Click here to go [Home](/apps/courses/english/readme.md)
