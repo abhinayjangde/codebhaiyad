@@ -5,24 +5,6 @@ from langchain_core.prompts import PromptTemplate
 import os
 import time
 
-def load_env(file_path):
-    if not os.path.exists(file_path):
-        raise FileNotFoundError(f"{file_path} not found")
-    
-    with open(file_path, 'r') as file:
-        for line in file:
-            # Remove whitespace and skip comments
-            line = line.strip()
-            if line and not line.startswith('#'):
-                # Split the line into key and value
-                key, value = line.split('=', 1)
-                # Strip quotes if present
-                value = value.strip('"').strip("'")
-                # Set the environment variable
-                os.environ[key] = value
-
-
-load_env('.env')
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 
 def create_prompt():
