@@ -16,14 +16,14 @@
 
 ## Local Development Setup
 
-> This repository is in development mode. You can contribute to this repository by following the below steps. If you want to contribute production code. [visit](https://github.com/abhinayjangde/codebhaiya-old.git)
+> This repository is in development mode. You can contribute to this repository by following the below steps. If you want to contribute production code. [visit](https://github.com/abhinayjangde/codebhaiya.git)
 1. Clone the repository
 ```bash
-git clone https://github.com/abhinayjangde/codebhaiya.git
+git clone https://github.com/abhinayjangde/codebhaiyad.git
 ```
 2. Change the directory
 ```bash
-cd codebhaiya
+cd codebhaiyad
 ```
 3. Install the dependencies
 ```bash
